@@ -55,10 +55,10 @@
     "high_k_sampling": 50
   },
   "generation_time_seconds": {
-    "greedy": 28.618866682052612,
-    "beam5": 64.96245288848877,
-    "low_k_sampling": 169.49394631385803,
-    "high_k_sampling": 174.92609930038452
+    "greedy": 38.10301876068115,
+    "beam5": 67.29503321647644,
+    "low_k_sampling": 183.04287314414978,
+    "high_k_sampling": 180.5323622226715
   },
-  "timestamp_utc": "2026-09-17T18:27:49Z"
+  "timestamp_utc": "2026-09-17T18:48:15Z"
 }
