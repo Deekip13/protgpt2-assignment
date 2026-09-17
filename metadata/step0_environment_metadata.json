@@ -1,0 +1,9 @@
+{
+  "model_name": "nferruz/ProtGPT2",
+  "master_seed": 42,
+  "device": "cpu",
+  "gpu_name": null,
+  "transformers_version": "5.16.1",
+  "torch_version": "2.11.0+cpu",
+  "timestamp_utc": "2026-09-17T18:18:02Z"
+}
