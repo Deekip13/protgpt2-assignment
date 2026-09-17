@@ -1,0 +1,64 @@
+{
+  "model_name": "nferruz/ProtGPT2",
+  "prompt": "<|endoftext|>",
+  "master_seed": 42,
+  "setting_seeds": {
+    "greedy": 42,
+    "beam5": 42,
+    "low_k_sampling": 43,
+    "high_k_sampling": 44
+  },
+  "decoding_settings": {
+    "greedy": {
+      "do_sample": false,
+      "num_beams": 1,
+      "max_new_tokens": 75
+    },
+    "beam5": {
+      "do_sample": false,
+      "num_beams": 5,
+      "max_new_tokens": 75
+    },
+    "low_k_sampling": {
+      "do_sample": true,
+      "top_k": 250,
+      "top_p": 1.0,
+      "temperature": 1.0,
+      "repetition_penalty": 1.2,
+      "max_new_tokens": 75
+    },
+    "high_k_sampling": {
+      "do_sample": true,
+      "top_k": 950,
+      "top_p": 1.0,
+      "temperature": 1.0,
+      "repetition_penalty": 1.2,
+      "max_new_tokens": 75
+    }
+  },
+  "n_requested": {
+    "greedy": 1,
+    "beam5": 1,
+    "low_k_sampling": 50,
+    "high_k_sampling": 50
+  },
+  "n_raw_generated": {
+    "greedy": 1,
+    "beam5": 1,
+    "low_k_sampling": 50,
+    "high_k_sampling": 50
+  },
+  "n_unique": {
+    "greedy": 1,
+    "beam5": 1,
+    "low_k_sampling": 50,
+    "high_k_sampling": 50
+  },
+  "generation_time_seconds": {
+    "greedy": 28.618866682052612,
+    "beam5": 64.96245288848877,
+    "low_k_sampling": 169.49394631385803,
+    "high_k_sampling": 174.92609930038452
+  },
+  "timestamp_utc": "2026-09-17T18:27:49Z"
+}
