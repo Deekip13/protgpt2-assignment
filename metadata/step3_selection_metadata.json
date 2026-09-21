@@ -1,0 +1,28 @@
+{
+  "low_k_sampling": {
+    "n_cleaned_total": 48,
+    "n_length_eligible_initial": 43,
+    "sufficient_pool_initially": true,
+    "n_extra_generated": 0,
+    "n_final_eligible_pool": 43,
+    "n_selected": 10,
+    "selection_seed": 62,
+    "length_range": [
+      80,
+      250
+    ]
+  },
+  "high_k_sampling": {
+    "n_cleaned_total": 50,
+    "n_length_eligible_initial": 49,
+    "sufficient_pool_initially": true,
+    "n_extra_generated": 0,
+    "n_final_eligible_pool": 49,
+    "n_selected": 10,
+    "selection_seed": 62,
+    "length_range": [
+      80,
+      250
+    ]
+  }
+}
