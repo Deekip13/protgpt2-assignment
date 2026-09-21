@@ -1,0 +1,8 @@
+{
+  "source": "UniProt REST API (reviewed, length 80-250)",
+  "query_url": "https://rest.uniprot.org/uniprotkb/search?query=reviewed:true+AND+length:[80 TO 250]&format=fasta&size=500&random=true",
+  "n_candidates_fetched": 500,
+  "n_selected": 50,
+  "random_seed": 52,
+  "timestamp_utc": "2026-09-21T22:23:42Z"
+}
