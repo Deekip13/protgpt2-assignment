@@ -1,9 +1,9 @@
 {
   "model_name": "nferruz/ProtGPT2",
   "master_seed": 42,
-  "device": "cpu",
-  "gpu_name": null,
+  "device": "cuda",
+  "gpu_name": "Tesla T4",
   "transformers_version": "5.16.1",
-  "torch_version": "2.11.0+cpu",
-  "timestamp_utc": "2026-09-17T18:40:10Z"
+  "torch_version": "2.11.0+cu128",
+  "timestamp_utc": "2026-09-21T22:21:01Z"
 }
