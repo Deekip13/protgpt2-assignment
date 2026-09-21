@@ -1,0 +1,5 @@
+setting,n_unique_generated,n_folded,mean_plddt,fraction_above_70
+greedy,1,,,
+beam5,1,,,
+low_k_sampling,50,10.0,46.8,0.1
+high_k_sampling,50,10.0,43.7,0.0
