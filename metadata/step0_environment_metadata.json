@@ -3,7 +3,7 @@
   "master_seed": 42,
   "device": "cuda",
   "gpu_name": "Tesla T4",
-  "transformers_version": "5.16.1",
-  "torch_version": "2.11.0+cu128",
-  "timestamp_utc": "2026-09-21T23:22:18Z"
+  "transformers_version": "5.17.0",
+  "torch_version": "2.11.0+cu130",
+  "timestamp_utc": "2026-09-23T23:54:15Z"
 }
