@@ -1,39 +1,39 @@
 {
   "low_k_sampling": {
     "n_folded": 10,
-    "mean_plddt": 46.81827957643677,
-    "std_plddt": 12.661805422587982,
+    "mean_plddt": 46.810600389528645,
+    "std_plddt": 12.671466512978565,
     "fraction_above_70": 0.1,
     "n_above_70": 1,
     "individual_plddt": {
-      "low_k_sampling_00": 48.35267379679145,
-      "low_k_sampling_01": 53.69758064516129,
-      "low_k_sampling_02": 29.275964125560538,
-      "low_k_sampling_03": 36.23668711656442,
-      "low_k_sampling_04": 76.26922279792745,
-      "low_k_sampling_05": 37.81637305699483,
-      "low_k_sampling_06": 37.82090909090909,
-      "low_k_sampling_07": 45.40061452513966,
-      "low_k_sampling_08": 56.93188172043012,
-      "low_k_sampling_09": 46.3808888888889
+      "low_k_sampling_00": 48.128235294117644,
+      "low_k_sampling_01": 53.6116129032258,
+      "low_k_sampling_02": 29.333946188340803,
+      "low_k_sampling_03": 36.53104294478527,
+      "low_k_sampling_04": 76.27813471502591,
+      "low_k_sampling_05": 37.50476683937824,
+      "low_k_sampling_06": 37.73203208556149,
+      "low_k_sampling_07": 45.2954748603352,
+      "low_k_sampling_08": 57.14725806451614,
+      "low_k_sampling_09": 46.5435
     }
   },
   "high_k_sampling": {
     "n_folded": 10,
-    "mean_plddt": 43.745895506181505,
-    "std_plddt": 8.353051445637329,
+    "mean_plddt": 43.7262347815416,
+    "std_plddt": 8.348368387248318,
     "fraction_above_70": 0.0,
     "n_above_70": 0,
     "individual_plddt": {
-      "high_k_sampling_00": 36.4714,
+      "high_k_sampling_00": 36.5695,
       "high_k_sampling_01": 45.68768707482993,
-      "high_k_sampling_02": 32.56579234972678,
+      "high_k_sampling_02": 32.3024043715847,
       "high_k_sampling_03": 48.270337837837836,
-      "high_k_sampling_04": 53.168,
-      "high_k_sampling_05": 54.50027472527472,
-      "high_k_sampling_06": 32.70162561576355,
-      "high_k_sampling_07": 37.181614583333335,
-      "high_k_sampling_08": 42.064324324324325,
+      "high_k_sampling_04": 53.203649999999996,
+      "high_k_sampling_05": 54.30483516483516,
+      "high_k_sampling_06": 32.69866995073892,
+      "high_k_sampling_07": 37.3325,
+      "high_k_sampling_08": 42.04486486486486,
       "high_k_sampling_09": 54.84789855072463
     }
   }
